@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PasswordApp</string>
+
+
+    <!--Drawer Menu-->
+    <string name="Opcion_Todas">Todas</string>
+    <string name="Opcion_Ajustes">Ajustes</string>
+    <string name="Opcion_Salir">Salir</string>
+
+
+    <!--DrawerLayout-->
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+
+    <!--FAB-->
+    <string name="FAB_AgregarPassword">Agregar</string>
+
+    <!--DISEÑO AGREGAR PASSWORD-->
+    <string name="EtTitulo">Titulo</string>
+    <string name="EtCuenta">Cuenta</string>
+    <string name="EtNombreUsuario">Nombre de usuario</string>
+    <string name="EtPassword">Contraseña</string>
+    <string name="EtSitioWeb">Sitio Web</string>
+    <string name="EtNota">Nota</string>
+
+    <!--Menu Guardar-->
+    <string name="GuardarPassword">Guardar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
